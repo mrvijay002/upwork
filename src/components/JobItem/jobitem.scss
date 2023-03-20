@@ -1,0 +1,26 @@
+.job-item {
+  border-top: 1px solid #d5e0d5;
+
+  &:first-child {
+    border: none;
+  }
+
+  .job-title {
+    color: #001e00;
+  }
+
+  .row {
+    color: #5e6d55;
+
+    .price {
+      font-weight: 500;
+    }
+  }
+  .job_item__budget-title {
+    color: #5e6d55;
+  }
+
+  .desc {
+    color: #001e00;
+  }
+}

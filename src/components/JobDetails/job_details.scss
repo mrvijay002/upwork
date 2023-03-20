@@ -1,0 +1,25 @@
+.job-details {
+  &__section {
+    border-bottom: 1px solid #d5e0d5;
+  }
+
+  .job-title {
+    font-weight: 600;
+  }
+
+  .job-type {
+    color: #108a00;
+  }
+
+  .posted-on {
+    color: #5e6d55;
+  }
+
+  .job_item__budget-title {
+    color: #5e6d55;
+  }
+
+  .sub-title {
+    font-weight: 600;
+  }
+}
